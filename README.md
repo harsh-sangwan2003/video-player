@@ -1,18 +1,12 @@
-## Video Player App
+## Custom Video Player
 
-## Live Website
-
-- [Link](https://harsh-sangwan2003.github.io/relaxer-app/)
-
-A quick guide to my Project ->
-
-<img src ="/image.webp">
-
-A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
+Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
 ## Project Specifications
 
-- Create circle and gradient circle with CSS
-- Create and animate pointer (Small circle)
-- Create grow and shrink animations
-- Add JavaScript to create the breath animation effect
+- Display custom video player styled with CSS
+- Play/pause
+- Stop
+- Video progress bar
+- Set progress bar time
+- Display time in mins and seconds
