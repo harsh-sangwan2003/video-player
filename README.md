@@ -4,7 +4,7 @@ Custom video player using the HTML5 video element and it's JavaScript API with a
 
 ## Live Website
 
-- [Link]()
+- [Link](https://harsh-sangwan2003.github.io/video-player/)
 
 A quick guide to my Project ->
 
