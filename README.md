@@ -1,4 +1,4 @@
-## Relaxer App
+## Video Player App
 
 ## Live Website
 
